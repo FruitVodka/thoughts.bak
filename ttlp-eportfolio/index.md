@@ -1,4 +1,4 @@
-### Welcome to Varsha's ePortfolio
+### Hello, there!
 
-Here are the posts:
+Here are posts:
 - [First](https://varshav0119.github.io/thoughts.bak/ttlp-eportfolio/first.md)
