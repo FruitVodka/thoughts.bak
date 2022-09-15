@@ -9,7 +9,7 @@
 `~ Varsha`
 
 <script src="https://utteranc.es/client.js"
-        repo="[ENTER REPO HERE]"
+        repo="varshav0119/thoughts.bak"
         issue-term="pathname"
         theme="github-light"
         crossorigin="anonymous"
