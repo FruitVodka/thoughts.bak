@@ -1,6 +1,6 @@
 
-# Theories of Knowing in Learning Design - Behaviourism and Constructionism
-The epistemologies - theories of knowing - and the class exercise that involved designing a learning experience based on a theory, motivated me to think back to some of my past experiences as a learner. I am able to identify among them some instances of good and bad design, that knowingly or unknowingly (pun intended!) were based on these epistemologies.
+# Behaviourism and Constructionism
+The epistemologies (schools of thought for defining knowledge) and the class exercise that involved designing a learning experience based on a given theory, motivated me to think back to some of my past experiences as a learner. I am able to identify among them some instances of good and bad design, that knowingly or unknowingly (pun intended!) were based on these epistemologies.
 
 ## Behaviourism
 My group had to come up with a way to teach a learner to drive a car, motivated by behaviourism. Before this, I had a negative outlook on how useful learning experiences based in behaviourism could be. Post engaging in this activity, I am able to understand that it may be useful in some well-defined contexts where the outcome is really far more significant and consequential that the journey - like in the case of learning how to drive safely.  
