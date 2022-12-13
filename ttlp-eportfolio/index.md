@@ -6,3 +6,4 @@ Welcome to my ePortfolio for Teaching and Learning Lab Practicum (T-127), Fall 2
 - [Discover Module Assignment](./assignment1)
 - [Learning from Foundations: Learner Journey](./learnerjourney)
 - [Group Intimacy Learning Experience](./reflection2)
+- [Examples of Media Decisions](./reflection3)
