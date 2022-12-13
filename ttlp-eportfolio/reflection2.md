@@ -1,5 +1,5 @@
 
-# Group Intimacy Learning Experience
+# Reflection: Group Intimacy Learning Experience
 A few days ago, I participated in a prototype of a group learning experience. This experience was designed to foster intimacy within the group of people who had signed up to participate. Through this reflective post, I wish to break down this session from the perspective of a learning designer, and argue for the "design thinking" framework as the best fit for this experience.
 
 ## Learning Objective

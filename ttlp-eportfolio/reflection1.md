@@ -1,5 +1,5 @@
 
-# Behaviourism and Constructionism
+# Reflection: Behaviourism and Constructionism
 The epistemologies (schools of thought for defining knowledge) and the class exercise that involved designing a learning experience based on a given theory, motivated me to think back to some of my past experiences as a learner. I am able to identify among them some instances of good and bad design, that knowingly or unknowingly (pun intended!) were based on these epistemologies.
 
 ## Behaviourism

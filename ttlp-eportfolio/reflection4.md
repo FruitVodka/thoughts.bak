@@ -1,0 +1,16 @@
+
+# Reflection: Facilitation
+
+The role of facilitation in driving a successful learning experience is something I have frequently reflected on during my Fall semester at HGSE. Some key moments in TLL prompted me to think about the tensions that arise when making choices as a facilitator:
+
+### Learning from Foundations
+While engaging with the "practicum" aspect of TLL (the Learning from Foundations project), I remember thinking that the project meetings were well-structured: there was a pre-planned agenda for every meeting and a place for us to record our discussion and action items. However, at the beginning of the project, I felt a profound sense of uncertainty. I didn't know what contributions were expected of me, or how best to engage with the project. I remember discussing with a teammate: "I wish we could throw out the agenda, and have a long conversation with our project lead." I hesitantly brought up my concerns at the next meeting, feeling a sense of guilt that I was disrupting the structure of the meeting. Katherine, the project lead and facilitator, responded immediately by turning the meeting into the conversation I'd wanted - she answered all our questions and also asked us to schedule follow-up 1:1 meetings to talk more. All our further meetings with Katherine felt dynamic - she always explicitly made space for the group to bring up whatever we needed her support on.
+
+This inspired a takeaway: flexibility to accommodate the needs of the learners should always be a priority while facilitating.
+
+### Capstone Design Sprint
+My capstone was a design sprint that I facilitated for the core team of an NGO, [Sitara Akka](https://sitaraakka.org/). One of the tensions I encountered was knowing when to assert authority as a facilitator and move the conversation along. Feeling like I was "external" to the core team also played a role in my hesitation - I kept wondering whether I would be stepping on their toes by halting discussions that were productive to them, even though they seemed off-topic to me. The outcome was that the design sprint went over time by almost an hour, resulting in some noticeable disengagement from the team towards the end.
+
+I later realized that I was trying to play the roles of Facilitator, Time-Keeper and Converger all at once, and I could have done a better job organizationally by allotting some of these roles to the participants. This might have also prompted me to feel less concerned about being authoritative, by distributing responsibility. My second takeaway is this: facilitation is difficult, and it is worth investing some time thinking about my identity as a facilitator and planning ahead.
+
+I will summarize with a bad analogy: learning design is the star of the show, it can make or break the learning experience. But as in shows, supporting characters like facilitation (and perhaps attributes of the learning space, learner dispositions etc.) are important too, they can add to or take away from richness of the experience.
