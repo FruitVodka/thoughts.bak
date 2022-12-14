@@ -8,4 +8,6 @@ Welcome to my ePortfolio for Teaching and Learning Lab Practicum (T-127), Fall 2
 - [Reflection: Group Intimacy Learning Experience](./reflection2)
 - [Reflection: Examples of Media Decisions](./reflection3)
 - [Reflection: Facilitation](./reflection4)
+- [Reflection: Interviewing a MOOC student](./reflection5)
+- [Final Reflection: Takeaways from T-127](./finalreflection)
 - [Capstone](./capstone.md)
