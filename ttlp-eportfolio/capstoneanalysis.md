@@ -2,7 +2,7 @@
 
 ## Motivation
 
-Working on the Learning from Foundations project with the Teaching and Learning Lab (TLL) allowed me to reflect on the ways in which taking the Foundations courses this summer have influenced my identity as an educator. How People Learn definitely played a role in my course selection: I wanted to understand how research in learning sciences informs the design of learning experiences, leading me to take the TLL Practicum course. But on a more fundamental level, How People Learn affirmed my identity as an educator: I found the vocabulary to express, and the research to support, certain things that my intuition already told me.
+Working on the Learning from Foundations project with the Teaching and Learning Lab (TLL) allowed me to reflect on the ways in which taking the Foundations courses this summer have influenced my identity as an educator. How People Learn definitely played a role in my course selection: I wanted to understand how research in learning sciences informs the design of learning experiences, leading me to take the TLL Practicum course. But on a more fundamental level, How People Learn affirmed my identity as an educator: I found the vocabulary to express, and the research to support, certain _things_ that my intuition already told me.
 
 My experiences as an educator at Sitara Akka played a large role in helping me develop this “intuition”. I’d learned a lot from working on projects at Sitara and perhaps even more from the community of passionate educators around me: the Core Team of Sitara.
 
